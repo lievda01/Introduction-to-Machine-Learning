@@ -6,10 +6,10 @@ date: August 11, 2023
 ---
 
 ### Authors
-Nicolas Rey -ner785
-Daniel Lievano - dl37682
-Alfredo Sandoval - as232864
-Brandon Lewis - byl285
+1. Nicolas Rey -ner785
+2. Daniel Lievano - dl37682
+3. Alfredo Sandoval - as232864
+4. Brandon Lewis - byl285
 
 
 
