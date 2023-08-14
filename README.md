@@ -19,16 +19,16 @@ This repository contains the data analysis and solutions for the part 2 of the c
 
 ## Notebooks
 
-1. [Probability Practice](Probability%20Practice.ipynb)
-2. [Wrangling the Billboard Top 100](Wrangling%20the%20Billboard%20Top%20100.ipynb)
-3. [GreenBuildings](GreenBuildings.ipynb)
-4. [Capital Metro](Capital%20Metro.ipynb)
-5. [Clustering and Dimensionality Reduction](Clustering%20and%20Dimensionality%20Reduction.ipynb)
-6. [Market Segmentation](Market%20Segmentation.ipynb)
-7. [The Reuters Corpus](The%20Reuters%20Corpus.ipynb)
-8. [Association Rule Mining Report](Association%20rule%20mining.pdf)
-    * To see the R code, review Association%20rule%20mining.R
-9. [Image Classification with Neural Networks](Image%20classification%20with%20neural%20networks.ipynb)
+1. Probability Practice
+2. Wrangling the Billboard Top 100
+3. GreenBuildings
+4. Capital Metro
+5. Clustering and Dimensionality Reduction
+6. Market Segmentation
+7. The Reuters Corpus
+8. Association Rule Mining Report
+    * To see the R code, review Association rule mining.R
+9. Image Classification with Neural Networks
 
 ## Other Files
 
