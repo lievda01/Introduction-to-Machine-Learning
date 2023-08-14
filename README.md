@@ -1,14 +1,17 @@
 # the_crew
 
 ---
-title: STA 380, Part 2: Exercises solution
-author: 
-    Nicolas Rey -ner785
-    Daniel Lievano - dl37682
-    Alfredo Sandoval - as232864
-    Brandon Lewis - byl285
+Title: STA 380, Part 2: Exercises solution
 date: August 11, 2023
 ---
+
+### Authors
+Nicolas Rey -ner785
+Daniel Lievano - dl37682
+Alfredo Sandoval - as232864
+Brandon Lewis - byl285
+
+
 
 # Repository Summary
 
