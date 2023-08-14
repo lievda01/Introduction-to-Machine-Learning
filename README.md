@@ -32,7 +32,6 @@ This repository contains the data analysis and solutions for the part 2 of the c
 
 ## Other Files
 
-- [Association Rule Mining](Association%20rule%20mining.R)
 - [README](README.md)
 
 Feel free to explore each notebook for detailed analyses and solutions to the respective problems. The repository covers a range of topics from probability practice to text mining, data wrangling, clustering, and more. If you have any questions or need further clarification, please don't hesitate to reach out.
